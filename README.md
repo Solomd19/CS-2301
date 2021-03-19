@@ -1,7 +1,7 @@
 # CS2301
 CS 2301 Assignments:\
-1: ???\
-2: ???\
-3: ???\
-4: ???\
-Final: 
+1: Function Prototypes from Sequence Diagrams; Include Files\
+2: Loops, Arrays, Console Output, Random Numbers, Display Path through 2D Space\
+3: Bingo\
+4: House Treasure Search\
+Final: Course Scheduler
