@@ -1,0 +1,5 @@
+This class is held on MTRF at 10. The course addition was a success.
+This class is held on TF at 12. The course addition was a success.
+This class is held on W at 9. The course addition was a success.
+This class is held on MTRF at 0 (Was invalid input time). The course addition was a failure.
+The reason was that the time of class was invalid.
