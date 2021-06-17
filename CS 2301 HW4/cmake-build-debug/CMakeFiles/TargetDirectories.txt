@@ -1,0 +1,3 @@
+C:/Users/supad/Desktop/Temp Code Folder/2020HW3starter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/supad/Desktop/Temp Code Folder/2020HW3starter/cmake-build-debug/CMakeFiles/2020HW3starter.dir
+C:/Users/supad/Desktop/Temp Code Folder/2020HW3starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
