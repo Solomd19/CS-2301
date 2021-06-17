@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/2020HW2starter.c
+stdio.h
+-
+stdlib.h
+-
+tests.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/tests.h
+production.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/production.h
+LinkedList+marker.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/LinkedList+marker.h
+TMSName.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/TMSName.h
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/LinkedList+marker.c
+LinkedList+marker.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/LinkedList+marker.h
+stdlib.h
+-
+stdio.h
+-
+space.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/space.h
+LinkedList+marker.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/LinkedList+marker.h
+stdlib.h
+-
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/LinkedList+marker.h
+stdbool.h
+-
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/TMSName.h
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/production.c
+production.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/production.h
+space.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/space.h
+LinkedList+marker.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/LinkedList+marker.h
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/production.h
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/space.c
+space.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/space.h
+stdio.h
+-
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/space.h
+stdbool.h
+-
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/tests.c
+tests.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/tests.h
+production.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/production.h
+LinkedList+marker.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/LinkedList+marker.h
+space.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/space.h
+
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/tests.h
+production.h
+C:/Users/supad/Desktop/Temp Code Folder/CS 2301 HW2/src/production.h
+
